@@ -1,3 +1,5 @@
+# This is package has been modified to work with ROS2-foxy
+
 # ROS package for creating Gazebo environments from 2D maps
 
 Subscribes to your map topic and exports a mesh for use in Gazebo in the
